@@ -1,0 +1,13 @@
+.bg-dark{
+    background-color: #181819 !important;
+}
+
+.navbar{
+    height: 115px !important;
+}
+
+.header_class{
+    color: white;
+    font-family: 'Kristi', cursive;
+    font-size: 50px;
+}
